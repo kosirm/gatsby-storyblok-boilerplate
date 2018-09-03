@@ -9,6 +9,7 @@ const Teaser = (props) => (
         <h1 className="display-4">{ props.blok.headline }</h1>
         <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
         <p className="lead">That was pretty fast, don't you think?</p>
+        <p className="lead">Ma to je to, isplati se potruditi sa ovime...</p>
         <p className="lead">
           <Link className="btn btn-primary" to={'/blog/'}>
             Blog Posts
