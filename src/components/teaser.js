@@ -11,8 +11,8 @@ const Teaser = (props) => (
         <p className="lead">That was pretty fast, don't you think?</p>
         <p className="lead">Ma to je to, isplati se potruditi sa ovime...</p>
         <p className="lead">
-          <Link className="btn btn-primary" to={'/blog/'}>
-            Blog Posts
+          <Link className="btn btn-primary" to={'/en/blog/'}>
+            Blog Posts (en)
           </Link>
         </p>
       </div>
